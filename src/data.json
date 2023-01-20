@@ -27,7 +27,21 @@
         ]
       },
       {
-        "name": "Child 2"
+        "name": "Child 2",
+        "children":[
+          {
+            "name":"some child",
+            "children":[
+              {
+                "name":"some child"
+              },
+              {
+                "name":"some child"
+              }
+            ]
+          }
+        ]
+
       }
     ]
   }

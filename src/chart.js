@@ -5,6 +5,7 @@ import call from "./icons8-call-50.png";
 import video from "./icons8-video-24.png";
 import chat from "./icons8-chat-50.png";
 import data from "./data.json";
+import data2 from "./data2.json"
 function randomIntFromInterval(min, max) { // min and max included 
   return Math.floor(Math.random() * (max - min + 1) + min)
 }
@@ -14,7 +15,7 @@ const Card = (props) => {
   return (
     <ul>
       {props.data.map((item,index) => (
-        <Fragment key={item.name}>
+        <Fragment key={item.first_name}>
           <li>
             <div className="card">
               <div className="image">
@@ -25,24 +26,9 @@ const Card = (props) => {
                 />
               </div>
               <div className="card-body">
-                <h4>{faker.name.findName()}</h4>
-                <p>{faker.name.jobTitle()}</p>
+                <h4>{item.first_name}</h4>
+                <p>{item.title}</p>
               </div>
-              <div className="card-footer" style={{ background: levelColor }}>
-                <img
-                  src={chat}
-                  alt="Chat"
-                />
-                <img
-                  src={call}
-                  alt="Call"
-                />
-                <img
-                  src={video}
-                  alt="Video"
-                />
-              </div>
-              <div></div>
             </div>
             {item.children?.length && <Card data={item.children} />}
           </li>
@@ -54,8 +40,8 @@ const Card = (props) => {
 
 const Chart = () => {
   return (
-    <div className="org-tree">
-      <Card data={data} />
+    <div className="org-tree" style={{overflow:"scroll"}}>
+      <Card data={data2} />
     </div>
   );
 };

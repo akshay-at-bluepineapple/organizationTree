@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1002,
+        "title": "Principal Architect",
+        "first_name": "Josephine",
+        "last_name": "Darakjy",
+        "manager_id": null,
+        "EmployeeLevel": 0,
+        "children": [
+            {
+                "id": 1001,
+                "title": "Principal Architect",
+                "first_name": "James",
+                "last_name": "Vincent",
+                "manager_id": 1002,
+                "EmployeeLevel": 1,
+                "children": [
+                    {
+                        "id": 1008,
+                        "title": "Cloud Analyst",
+                        "first_name": "Leota",
+                        "last_name": "Dilliard",
+                        "manager_id": 1001,
+                        "EmployeeLevel": 2,
+                        "children": [
+                            {
+                                "id": 1040,
+                                "title": "Cloud Analyst",
+                                "first_name": "Kati",
+                                "last_name": "Rulapaugh",
+                                "manager_id": 1008,
+                                "EmployeeLevel": 3,
+                                "children": [
+                                    {
+                                        "id": 1045,
+                                        "title": "Cloud Analyst",
+                                        "first_name": "Erick",
+                                        "last_name": "Ferencz",
+                                        "manager_id": 1040,
+                                        "EmployeeLevel": 4,
+                                        "children": [
+                                            {
+                                                "id": 1044,
+                                                "title": "Manager",
+                                                "first_name": "Lavera",
+                                                "last_name": "Perin",
+                                                "manager_id": 1045,
+                                                "EmployeeLevel": 5,
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1010,
+                        "title": "Cloud Analyst",
+                        "first_name": "Kris",
+                        "last_name": "Marrier",
+                        "manager_id": 1001,
+                        "EmployeeLevel": 2,
+                        "children": [
+                            {
+                                "id": 1013,
+                                "title": "Cloud Analyst",
+                                "first_name": "Kiley",
+                                "last_name": "Caldarera",
+                                "manager_id": 1010,
+                                "EmployeeLevel": 3,
+                                "children": []
+                            },
+                            {
+                                "id": 1025,
+                                "title": "Sr. Cloud Analyst",
+                                "first_name": "Alisha",
+                                "last_name": "Slusarski",
+                                "manager_id": 1010,
+                                "EmployeeLevel": 3,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1017,
+                        "title": "Cloud Analyst",
+                        "first_name": "Arya",
+                        "last_name": "RM",
+                        "manager_id": 1001,
+                        "EmployeeLevel": 2,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": 1038,
+                "title": "Cloud Analyst",
+                "first_name": "Rozella",
+                "last_name": "Ostrosky",
+                "manager_id": 1002,
+                "EmployeeLevel": 1,
+                "children": []
+            }
+        ]
+    }
+]

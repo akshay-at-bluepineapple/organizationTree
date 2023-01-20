@@ -1,0 +1,391 @@
+[
+  {
+    "name": "Architect Team",
+    "children": [
+      {
+        "department_name": "Architect Team",
+        "department_id": "555008000000163131",
+        "id": 1001,
+        "first_name": "James",
+        "last_name": "Vincent",
+        "title": "Principal Architect"
+      },
+      {
+        "department_name": "Architect Team",
+        "department_id": "555008000000163131",
+        "id": 1002,
+        "first_name": "Josephine",
+        "last_name": "Darakjy",
+        "title": "Principal Architect"
+      },
+      {
+        "department_name": "Architect Team",
+        "department_id": "555008000000163131",
+        "id": 1003,
+        "first_name": "Art",
+        "last_name": "Venere",
+        "title": "Principal Architect"
+      },
+      {
+        "department_name": "Architect Team",
+        "department_id": "555008000000163131",
+        "id": 1041,
+        "first_name": "Youlanda",
+        "last_name": "Schemmer",
+        "title": "CTO"
+      }
+    ]
+  },
+  {
+    "name": "CEO's office",
+    "children": [
+      {
+        "department_name": "CEO's office",
+        "department_id": "555008000000174585",
+        "id": 1042,
+        "first_name": "Dyan",
+        "last_name": "Oldroyd",
+        "title": "CEO"
+      }
+    ]
+  },
+  {
+    "name": "Consulting Team",
+    "children": [
+      {
+        "department_name": "Consulting Team",
+        "department_id": "555008000000163121",
+        "id": 1004,
+        "first_name": "Lenna",
+        "last_name": "Paprocki",
+        "title": "Cloud Analyst"
+      },
+      {
+        "department_name": "Consulting Team",
+        "department_id": "555008000000163121",
+        "id": 1005,
+        "first_name": "Donette",
+        "last_name": "Foller",
+        "title": "Cloud Analyst"
+      },
+      {
+        "department_name": "Consulting Team",
+        "department_id": "555008000000163121",
+        "id": 1006,
+        "first_name": "Simona",
+        "last_name": "Morasca",
+        "title": "Cloud Analyst"
+      },
+      {
+        "department_name": "Consulting Team",
+        "department_id": "555008000000163121",
+        "id": 1007,
+        "first_name": "Mitsue",
+        "last_name": "Tollner",
+        "title": "Cloud Analyst"
+      },
+      {
+        "department_name": "Consulting Team",
+        "department_id": "555008000000163121",
+        "id": 1008,
+        "first_name": "Leota",
+        "last_name": "Dilliard",
+        "title": "Cloud Analyst"
+      },
+      {
+        "department_name": "Consulting Team",
+        "department_id": "555008000000163121",
+        "id": 1009,
+        "first_name": "Grishma",
+        "last_name": "Nair",
+        "title": "Cloud Analyst"
+      },
+      {
+        "department_name": "Consulting Team",
+        "department_id": "555008000000163121",
+        "id": 1045,
+        "first_name": "Erick",
+        "last_name": "Ferencz",
+        "title": "Cloud Analyst"
+      },
+      {
+        "department_name": "Consulting Team",
+        "department_id": "555008000000163121",
+        "id": 1011,
+        "first_name": "Minna",
+        "last_name": "Amigon",
+        "title": "Sr. Cloud Analyst"
+      },
+      {
+        "department_name": "Consulting Team",
+        "department_id": "555008000000163121",
+        "id": 1046,
+        "first_name": "Fatima",
+        "last_name": "Saylors",
+        "title": "Cloud Analyst"
+      },
+      {
+        "department_name": "Consulting Team",
+        "department_id": "555008000000163121",
+        "id": 1047,
+        "first_name": "Jina",
+        "last_name": "Briddick",
+        "title": "Cloud Analyst"
+      },
+      {
+        "department_name": "Consulting Team",
+        "department_id": "555008000000163121",
+        "id": 1048,
+        "first_name": "Kanisha",
+        "last_name": "Waycott",
+        "title": "Cloud Analyst"
+      },
+      {
+        "department_name": "Consulting Team",
+        "department_id": "555008000000163121",
+        "id": 1023,
+        "first_name": "Willard",
+        "last_name": "Kolmetz",
+        "title": "Sr. Cloud Analyst"
+      },
+      {
+        "department_name": "Consulting Team",
+        "department_id": "555008000000163121",
+        "id": 1024,
+        "first_name": "Maryann",
+        "last_name": "Royster",
+        "title": "Sr. Cloud Analyst"
+      },
+      {
+        "department_name": "Consulting Team",
+        "department_id": "555008000000163121",
+        "id": 1025,
+        "first_name": "Alisha",
+        "last_name": "Slusarski",
+        "title": "Sr. Cloud Analyst"
+      },
+      {
+        "department_name": "Consulting Team",
+        "department_id": "555008000000163121",
+        "id": 1026,
+        "first_name": "Allene",
+        "last_name": "Iturbide",
+        "title": "Sr. Cloud Analyst"
+      },
+      {
+        "department_name": "Consulting Team",
+        "department_id": "555008000000163121",
+        "id": 1027,
+        "first_name": "Chanel",
+        "last_name": "Caudy",
+        "title": "Sr. Cloud Analyst"
+      },
+      {
+        "department_name": "Consulting Team",
+        "department_id": "555008000000163121",
+        "id": 1049,
+        "first_name": "Monique",
+        "last_name": "Marcel",
+        "title": "Sr. Cloud Analyst"
+      },
+      {
+        "department_name": "Consulting Team",
+        "department_id": "555008000000163121",
+        "id": 1038,
+        "first_name": "Rozella",
+        "last_name": "Ostrosky",
+        "title": "Cloud Analyst"
+      },
+      {
+        "department_name": "Consulting Team",
+        "department_id": "555008000000163121",
+        "id": 1039,
+        "first_name": "Valentine",
+        "last_name": "Gillian",
+        "title": "Cloud Analyst"
+      },
+      {
+        "department_name": "Consulting Team",
+        "department_id": "555008000000163121",
+        "id": 1040,
+        "first_name": "Kati",
+        "last_name": "Rulapaugh",
+        "title": "Cloud Analyst"
+      }
+    ]
+  },
+  {
+    "name": "Finance & Accounts",
+    "children": [
+      {
+        "department_name": "Finance & Accounts",
+        "department_id": "555008000000163161",
+        "id": 1044,
+        "first_name": "Lavera",
+        "last_name": "Perin",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "Grad Program 2020",
+    "children": [
+      {
+        "department_name": "Grad Program 2020",
+        "department_id": "555008000003901073",
+        "id": 1010,
+        "first_name": "Kris",
+        "last_name": "Marrier",
+        "title": "Cloud Analyst"
+      },
+      {
+        "department_name": "Grad Program 2020",
+        "department_id": "555008000003901073",
+        "id": 1012,
+        "first_name": "Abel",
+        "last_name": "Maclead",
+        "title": "Cloud Analyst"
+      },
+      {
+        "department_name": "Grad Program 2020",
+        "department_id": "555008000003901073",
+        "id": 1013,
+        "first_name": "Kiley",
+        "last_name": "Caldarera",
+        "title": "Cloud Analyst"
+      }
+    ]
+  },
+  {
+    "name": "HR",
+    "children": [
+      {
+        "department_name": "HR",
+        "department_id": "555008000000154001",
+        "id": 1036,
+        "first_name": "Solange",
+        "last_name": "Shinko",
+        "title": "HR Executive"
+      },
+      {
+        "department_name": "HR",
+        "department_id": "555008000000154001",
+        "id": 1037,
+        "first_name": "Jose",
+        "last_name": "Stockham",
+        "title": "Chief People Officer"
+      },
+      {
+        "department_name": "HR",
+        "department_id": "555008000000154001",
+        "id": 1021,
+        "first_name": "Sanket",
+        "last_name": "HR",
+        "title": "UX Specialist"
+      },
+      {
+        "department_name": "HR",
+        "department_id": "555008000000154001",
+        "id": 1043,
+        "first_name": "Roxane",
+        "last_name": "Campain",
+        "title": "Chief People Officer"
+      },
+      {
+        "department_name": "HR",
+        "department_id": "555008000000154001",
+        "id": 1035,
+        "first_name": "Alishia",
+        "last_name": "Sergi",
+        "title": "Lead - Talent Acquisition"
+      }
+    ]
+  },
+  {
+    "name": "Products",
+    "children": [
+      {
+        "department_name": "Products",
+        "department_id": "555008000000163141",
+        "id": 1033,
+        "first_name": "Ernie",
+        "last_name": "Stenseth",
+        "title": "Chief Product Officer"
+      },
+      {
+        "department_name": "Products",
+        "department_id": "555008000000163141",
+        "id": 1032,
+        "first_name": "Francine",
+        "last_name": "Vocelka",
+        "title": "Cloud Analyst"
+      },
+      {
+        "department_name": "Products",
+        "department_id": "555008000000163141",
+        "id": 1034,
+        "first_name": "Albina",
+        "last_name": "Glick",
+        "title": "Sr. Cloud Analyst"
+      }
+    ]
+  },
+  {
+    "name": "QA",
+    "children": [
+      {
+        "department_name": "QA",
+        "department_id": "555008000000163151",
+        "id": 1029,
+        "first_name": "Willow",
+        "last_name": "Kusko",
+        "title": "Cloud Analyst"
+      },
+      {
+        "department_name": "QA",
+        "department_id": "555008000000163151",
+        "id": 1030,
+        "first_name": "Bernardo",
+        "last_name": "Figeroa",
+        "title": "Cloud Analyst"
+      },
+      {
+        "department_name": "QA",
+        "department_id": "555008000000163151",
+        "id": 1031,
+        "first_name": "Ammie",
+        "last_name": "Corrio",
+        "title": "Cloud Consultant"
+      },
+      {
+        "department_name": "QA",
+        "department_id": "555008000000163151",
+        "id": 1028,
+        "first_name": "Ezekiel",
+        "last_name": "Chui",
+        "title": "Sr. Cloud Analyst"
+      }
+    ]
+  },
+  {
+    "name": "UX",
+    "children": [
+      {
+        "department_name": "UX",
+        "department_id": "555008000000163171",
+        "id": 1020,
+        "first_name": "Sneha",
+        "last_name": "Employee",
+        "title": "UX Specialist"
+      },
+      {
+        "department_name": "UX",
+        "department_id": "555008000000163171",
+        "id": 1022,
+        "first_name": "Veronika",
+        "last_name": "Inouye",
+        "title": "UX Specialist"
+      }
+    ]
+  }
+]
